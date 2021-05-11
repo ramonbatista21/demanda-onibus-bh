@@ -1,0 +1,5 @@
+Influência da confiabilidade e do tempo de viagem no número de passageiros MG transportados pelo transporte público coletivo: um estudo para Belo Horizonte
+
+Guilherme Grochowski Leise Kelli de Oliveira Luís Otávio Rocha Castilho Marlon José Soares Ramon Batista Departamento de Engenharia de Transportes e Geotecnia. Escola de Engenharia Universidade Federal de Minas Gerais
+
+Resumo Os serviços públicos de transporte coletivo por ônibus das grandes cidades brasileiras vêm apresentando queda no número de passageiros, enquanto o número de viagens realizadas por meios individuais motorizadas estão em ascensão no paradigma recente das grandes cidades brasileiras. A busca pela reversão deste quadro passa pela melhoria dos serviços prestados aos usuários do transporte público coletivo por ônibus, sendo esta melhoria diretamente relacionada à confiabilidade do serviço. Neste sentido, o objetivo deste trabalho é apontar relações estatísticas entre a confiabilidade e o tempo de viagem e o número de passageiros transportados no serviço de ônibus na cidade de Belo Horizonte - MG, entre os anos de 2014 e 2019, por meio do tratamento de dados através do software R.
